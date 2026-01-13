@@ -1,0 +1,11 @@
+    .box { 
+      min-height: 100px; 
+      border: 3px solid #fff;      
+      border-radius: 8px;          
+      box-shadow: 0 0 5px rgba(0,0,0,0.1); 
+    }
+    .header { background-color: plum; }
+    .sidebar { background-color: #a13d76; }
+    .verde { background-color:#13df0c; }
+    .violeta { background-color:  #6c726d; }
+    .celeste { background-color: #13313a; }

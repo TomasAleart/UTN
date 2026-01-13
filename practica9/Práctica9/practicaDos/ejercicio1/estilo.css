@@ -1,0 +1,38 @@
+
+.col-sm-6:nth-child(1) {
+    background: peachpuff;
+}
+
+.col-sm-6:nth-child(2) {
+    background: rosybrown;
+}
+
+div[class^="col"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.header {
+    background: rgb(233, 216, 233);
+    padding: 20px;
+}
+
+.sidebar {
+    background: peachpuff;
+    padding: 20px;
+}
+
+.green {
+    background: lightgreen;
+    padding: 20px;
+}
+
+.gray {
+    background: #9c8b9c;
+    padding: 20px;
+}
+
+.blue {
+    background: lightsteelblue;
+    padding: 20px;
+}

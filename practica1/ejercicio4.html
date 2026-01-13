@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercitación 4</title>
+
+</head>
+<body>
+    <img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vhRxrw6ltCuyJGMPazuGBMJu_6iPsQ74Yg&s width="150" height = "100">
+    <A HREF= https://www.frro.utn.edu.ar/>www.frro.utn.edu.ar</A>
+    <br>
+    <br>
+    <hr style = "height: 2px; background-color: black;">
+    <h1>
+        Año 2008
+    </h1>
+<table style="border-collapse: collapse; width: 400px;">
+       <caption style="border: 1px solid black;">Examen</caption>
+       <tr>
+         <td style="border: 1px solid black;" rowspan="2" id = "fecha"></td>
+         <td style="border: 1px solid black;">aprobados</td>         
+       </tr>
+
+       <tr>
+         <td style="border: 1px solid black;">24/30</td>
+       </tr>
+
+    </table>
+<script>
+  const fecha = new Date();
+  const formato = fecha.toLocaleDateString('es-AR'); 
+  document.getElementById("fecha").innerText = formato;
+</script>
+
+ <ol>
+  <li><a href="#enunciado">Enunciado del examen</a></li> 
+  <li><a href="https://www.ejemplo.com" target="_blank">Resolución</a></li> 
+</ol>
+
+<p> Puede realizar consultas completando el siguiente formulario: </p>
+
+<form action="mailto:xx@xx.com" method="post" enctype="text/plain">
+  <table>
+    <tr>
+      <td><label for="email">e-mail:</label></td>
+      <td><input type="text" name="email" id="email"></td>
+    </tr>
+    <tr>
+      <td><label for="consulta">consulta:</label></td>
+      <td><input type="text" name="consulta" id="consulta"></td>
+    </tr>
+  </table>
+  <br>
+  <input type="submit" value="ENVIAR">
+  <input type="reset" value="BORRAR">
+</form>
+
+<small>formulario que se envía por correo electrónico a <b>xx@xx.com</b></small>
+<h3 id="enunciado">Enunciado del examen</h3>
+<p><strong>Ejercicio 1:</strong> <br> .................................................</p>
+<p><strong>Ejercicio 2:</strong> <br> .................................................</p>
+
+<p>
+  <textarea rows="4" cols="50">
+
+
+
+  </textarea>
+</p>
+
+<p>Para más información dirigirse a 
+  <a href="mailto:contacto@xx.com">contacto@xx.com</a>
+</p>
+</body>
+</html>

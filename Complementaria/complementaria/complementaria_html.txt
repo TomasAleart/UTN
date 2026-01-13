@@ -1,0 +1,101 @@
+Práctica complementaria HTML : --Franco Massagli --leg:54315 
+
+
+
+	1 y 3) 
+
+	Ventajas del HTML5
+
+	1. Estandarización y compatibilidad:Es un estándar abierto desarrollado por el W3C y WHATWG, ahora es compatible con todos los navegadores modernos.
+	2. Introduccion de etiquetas de audio y video.
+	3. Nuevas etiquetas como: <header>, <footer>, <article>, <section>, <nav>, <aside> facilita la accesibilidad, el SEO y el mantenimiento del código (se vuelve todo más estructurado).
+	4. Mejor rendimiento y es más liviano HTML5 está diseñado para ser más rápido.
+	5. Mejoras en cuanto a el soporte para formularios (nuevas etiquetas).	
+	6. Gran compatibilidad con tecnologías como CSS3 y JavaScript.
+
+
+
+
+
+	2. ¿Por qué utilizarlo?
+	
+	La principal razón para utilizarlo es que se volvió un estándar en el desarrollo web, es la manera de estructurar el contenido web además todos los navegadores modernos están diseñados para funcionar con HTML5. Hay múltiples 		razones aparte de esta para elegir esta tecnología, HTML5 es una tecnología muy rápida para cargar contenido web, está pensada para brindar una gran accesibilidad a los sitios web.
+
+
+
+	Ejercitación 2
+
+
+	2.A y 3 A) ¿Qué formatos soporta ? 
+
+	MP4 (.mp4) 
+
+	WebM (.webm)   (Formatos de video) 
+
+	Ogg (.ogv) 
+
+
+
+	MP3 (.mp3) 
+
+	Ogg (.ogg) (Formatos de audio) 
+
+	WAV (.wav) 
+
+
+	JPEG (.jpg o .jpeg)
+
+	PNG (.png)
+
+	GIF (.gif) (Formatos de imágen) 
+
+	SVG (.svg) 
+
+	WebP (.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
